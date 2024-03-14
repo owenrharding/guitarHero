@@ -4,7 +4,7 @@
  * Main file
  *
  * Authors: Peter Sutton, Luke Kamols, Jarrod Bennett, Cody Burnett
- * Modified by <YOUR NAME HERE>
+ * Modified by Owen Harding
  */
 
 #include <stdio.h>

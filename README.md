@@ -20,15 +20,13 @@ This was also my first project with C and honestly found it really nice to use.
 The majority of my code and logic is on game.c and project.c.
 
 Note: Not all the code in this document is mine. Authors are credited on files that they contributed to, however large or little their contribution. My code spans across the following files:
-game.c
-game.h
-project.c
-display.c
-display.h
-ledmatrix.c
-ledmatrix.h
-pixel_colour.h
-timer1.c
-timer1.h
-timer2.c
-timer2.h
+- game.c
+- game.h
+- project.c
+- display.c
+- display.h
+- pixel_colour.h
+- timer1.c
+- timer1.h
+- timer2.c
+- timer2.h

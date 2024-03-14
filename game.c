@@ -3,7 +3,7 @@
  *
  * Functionality related to the game state and features.
  *
- * Author: Jarrod Bennett, Cody Burnett
+ * Author: Jarrod Bennett, Cody Burnett, Owen Harding
  */
 
 #include <avr/pgmspace.h>

@@ -1,7 +1,7 @@
 /*
  * pixel_colour.h
  *
- * Author: Peter Sutton
+ * Author: Peter Sutton, Owen Harding
  */ 
 
 #ifndef PIXEL_COLOUR_H_

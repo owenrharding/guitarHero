@@ -1,7 +1,7 @@
 /*
  * timer2.c
  *
- * Author: Peter Sutton
+ * Author: Peter Sutton, Owen Harding
  *
  * timer 2 skeleton
  */

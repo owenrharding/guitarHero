@@ -1,7 +1,7 @@
 /*
  * game.h
  *
- * Author: Jarrod Bennett, Cody Burnett
+ * Author: Jarrod Bennett, Cody Burnett, Owen Harding
  *
  * Function prototypes for game functions available externally. You may wish
  * to add extra function prototypes here to make other functions available to

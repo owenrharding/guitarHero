@@ -1,7 +1,7 @@
 /*
  * timer1.h
  *
- * Author: Peter Sutton
+ * Author: Peter Sutton, Owen Harding
  *
  * timer 1 skeleton
  */

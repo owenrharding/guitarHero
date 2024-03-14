@@ -2,7 +2,7 @@
  * display.h
  *
  * Authors: Luke Kamols, Jarrod Bennett, Martin Ploschner, Cody Burnett,
- * Renee Nightingale
+ * Renee Nightingale, Owen Harding
  */ 
 
 #ifndef DISPLAY_H_
