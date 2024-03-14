@@ -3,6 +3,9 @@ Guitar Hero on LED Matrix using ATMega324A
 
 This was a really fun project done for Assignment 2 in CSSE2010.
 First time using an AVR Microcontroller, and was pretty skeptical at first, but ended up having a lot of fun with it.
+
+https://github.com/owenrharding/guitarHero/assets/133105825/a2592601-0e05-4c0c-8d35-b51cf45f7557
+
 Code Functionality:
 - Play notes with Push Buttons
 - Play notes with Terminal Input
